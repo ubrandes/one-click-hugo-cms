@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="210mm" height="297mm" version="1.1" viewBox="0 0 210 297" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<svg width="129.46mm" height="8.0378mm" version="1.1" viewBox="0 0 129.46 8.0378" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
  <metadata>
   <rdf:RDF>
    <cc:Work rdf:about="">
@@ -9,7 +9,7 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g>
+ <g transform="translate(-51.936 -105.97)">
   <path d="m56.914 109.87q0.77893 0.16933 1.1966 0.67733 0.42898 0.49671 0.42898 1.2869 0 1.016-0.75636 1.5692-0.74507 0.54187-2.2126 0.54187h-3.635v-7.9022h3.4092q1.3208 0 2.0433 0.53058 0.73378 0.53058 0.73378 1.5014 0 0.65476-0.32738 1.1176-0.31609 0.45156-0.88053 0.67734zm-4.143-3.1383v2.8674h2.5174q0.95956 0 1.4788-0.36124 0.51929-0.37253 0.51929-1.0724 0-0.69991-0.51929-1.0612-0.51929-0.37254-1.4788-0.37254zm2.7884 6.525q1.0612 0 1.603-0.36125 0.54187-0.36124 0.54187-1.1289 0-1.4788-2.1449-1.4788h-2.7884v2.969z" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;shape-inside:url(#rect18);white-space:pre"/>
   <path d="m65.842 113.94-1.8062-2.54q-0.3048 0.0339-0.63218 0.0339h-2.1223v2.5061h-0.83538v-7.9022h2.9577q1.5127 0 2.3707 0.72249 0.85796 0.72249 0.85796 1.9868 0 0.92569-0.47413 1.5692-0.46284 0.63218-1.3321 0.91441l1.9304 2.7093zm-2.461-3.2173q1.174 0 1.7949-0.51928 0.62089-0.51929 0.62089-1.4563 0-0.95956-0.62089-1.4676-0.62089-0.51929-1.7949-0.51929h-2.0997v3.9624z" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;shape-inside:url(#rect18);white-space:pre"/>
   <path d="m73.56 111.83h-4.4027l-0.94827 2.111h-0.86925l3.6124-7.9022h0.82409l3.6124 7.9022h-0.88053zm-0.3048-0.67734-1.8965-4.2446-1.8965 4.2446z" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;shape-inside:url(#rect18);white-space:pre"/>
